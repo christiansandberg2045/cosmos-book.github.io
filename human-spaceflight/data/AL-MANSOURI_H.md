@@ -1,22 +1,20 @@
 ---
-category:	astronaut
-name:	MEIR, Jessica Ulrika "Goose"
+category:	international
+name:	Al-Mansouri, Hazza Ali Abdan Khalfan
 type:	civilian
-dob:	1977-07-15
+dob:	1983-12-13
 birthplace:
-  - name:	Caribou, Maine
-    latitude:	46.863611
-    longitude:	-67.998056
+  - name:	Al Wathba, Abu Dhabi, United Arab Emirates
+    latitude:	24.204781
+    longitude:	54.705553
 country:
-  - USA
+  - United Arab Emirates
 gender:	Male
 qualifications:
-  - BA in biology
-  - PhD in marine biology
-twitter:	astro_jessica
+  - Bachelor in aviation.
+twitter:
 references:
-  - https://www.nasa.gov/sites/default/files/atoms/files/meir-ju.pdf
-  - https://en.wikipedia.org/wiki/Jessica_Meir
+   - https://en.wikipedia.org/wiki/Hazza_Al_Mansouri
 missions:
   - name: Soyuz MS-15
     time_start: 2019-09-25T13:57Z
