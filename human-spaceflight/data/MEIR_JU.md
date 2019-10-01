@@ -1,6 +1,6 @@
 ---
 category:	astronaut
-name:	MEIR, Jessica Ulrika 
+name:	MEIR, Jessica Ulrika "Goose"
 type:	civilian
 dob:	1977-07-01
 birthplace:
@@ -9,15 +9,17 @@ birthplace:
     longitude:	-67.998056
 country:
   - USA
+gender:	Female
 qualifications:
   - BA in biology
-  - Doctorate in marine biology
+  - PhD in marine biology
+twitter:	astro_jessica
 references:
   - https://www.nasa.gov/sites/default/files/atoms/files/meir-ju.pdf
+  - https://en.wikipedia.org/wiki/Jessica_Meir
 missions:
   - name: Soyuz MS-15
     time_start: 2019-09-25T13:57Z
     time_end:
 evas:
-gender:	Female
 ---
