@@ -1,21 +1,22 @@
 ---
 category:	astronaut
 name:	MORGAN, Andrew R.
-type:	civilian
-dob:	1951-11-28
+type:	military
+dob:	1976-02-05
 birthplace:
-  - name:	Fresno, California
-    latitude:	36.78334
-    longitude:	-119.79435
-gender:	Female
+  - name:	Morgantown, West Virginia
+    latitude:	39.633611 
+    longitude:	-79.950556
+gender:	Male
 qualifications:
-  - BA in human biology
+  - BSc in Environmental Engineering
+  - Doctor of Medicine
 references:
   - https://www.nasa.gov/sites/default/files/atoms/files/morgan-ar.pdf
 missions:
-  - name: STS-118
-    time_start:   2007-08-08T22:36:42Z
-    time_end:     2007-08-21T16:33:21Z
+  - name: Soyuz MS-13
+    time_start:   2019-07-20T16:28:21Z
+    time_end:
 evas:
 country:
   - USA
