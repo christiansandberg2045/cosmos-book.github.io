@@ -11,7 +11,7 @@
 * **AKIYAMA, Toyohiro**: http://www.spacefacts.de/bios/international/english/akiyama_toyohiro.htm
 * **AKSYONOV, Vladimir Viktorovich**: http://www.spacefacts.de/bios/cosmonauts/english/aksyonov_vladimir.htm
 * **AL-BASSAM, Abdulmohsen Hamad**: http://www.spacefacts.de/bios/international/english/albassam_abdulmohsen.htm
-* **Al-Mansouri, Hazza Ali Abdan Khalfan**: https://en.wikipedia.org/wiki/Hazza_Al_Mansouri
+* **AL-MANSOURI, Hazza Ali Abdan Khalfan**: https://en.wikipedia.org/wiki/Hazza_Al_Mansouri
 * **AL-SAUD, Sultan bin Salman bin Abdulaziz**: http://www.spacefacts.de/bios/international/english/alsaud_salman.htm
 * **ALDRIN, Edwin 'Buzz'**: http://www.nasa.gov/pdf/740566main_current.pdf
 * **ALEKSANDROV, Aleksandr Panayatov 'Sasha'**: http://www.spacefacts.de/bios/international/english/alexandrov_aleksandr.htm
