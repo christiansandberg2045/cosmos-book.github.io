@@ -8,7 +8,7 @@ birthplace:
     latitude:	24.204781
     longitude:	54.705553
 country:
-  - UAE
+  - ARE
 gender:	Male
 qualifications:
   - Bachelor in aviation.
