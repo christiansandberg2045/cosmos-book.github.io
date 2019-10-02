@@ -1,6 +1,6 @@
 ---
 category:	international
-name:	Al-Mansouri, Hazza Ali Abdan Khalfan
+name:	AL-MANSOURI, Hazza Ali Abdan Khalfan
 type:	civilian
 dob:	1983-12-13
 birthplace:
