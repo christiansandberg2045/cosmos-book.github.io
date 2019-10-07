@@ -9,6 +9,7 @@ birthplace:
     longitude:	-67.998056
 country:
   - USA
+  - SWE
 gender:	Female
 qualifications:
   - BA in biology
