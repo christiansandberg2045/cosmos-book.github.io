@@ -20,6 +20,8 @@ missions:
 evas:
   - time_start: 2019-03-29T11:42Z
     time_end:   2019-03-29T18:27Z
+  - time_start: 2019-10-06T11:39Z
+    time_end:   2019-10-06T18:40Z
 gender:	Female
 references:
   - https://en.wikipedia.org/wiki/Christina_Koch
