@@ -27,15 +27,15 @@ missions:
     time_start:   2018-12-03T11:31Z
     time_end:     2019-06-25T02:47Z
 evas:
-  - time_start: 2008-07-10
-    duration:   6h18m
-  - time_start: 2008-07-15
-    duration:   5h54m
-  - time_start: 2012-02-16
-    duration:   6h15m
+  - time_start: 2008-07-10T18:48Z
+    time_end:	2008-07-11T01:06Z
+  - time_start: 2008-07-15T17:08Z
+    time_end:	2008-07-15T23:02Z
+  - time_start: 2012-02-16T14:31Z
+    time_end:	2012-02-16T20:46Z
   - time_start: 2018-12-11T15:59Z
     time_end:	2018-12-11T23:44Z
   - time_start: 2019-05-29T15:42Z
-    time_end:   2019-05-29T21:43Z
+    time_end: 2019-05-29T21:43Z
 gender:	Male
 ---
