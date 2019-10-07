@@ -8,7 +8,7 @@ birthplace:
     latitude:	53.2733
     longitude:	34.348351
 country:
-  - SOV
+  - URS
 gender:	Male
 qualifications:
 references:
