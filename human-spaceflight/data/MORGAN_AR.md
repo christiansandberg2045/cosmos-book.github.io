@@ -18,6 +18,8 @@ missions:
     time_start:   2019-07-20T16:28:21Z
     time_end:
 evas:
+  - time_start: 2019-10-06T11:39Z
+    time_end:   2019-10-06T18:40Z
 country:
   - USA
 ---
