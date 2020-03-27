@@ -23,4 +23,12 @@ missions:
     time_start: 2019-09-25T13:57Z
     time_end:
 evas:
+  - time_start: 2019-10-18T11:38Z
+    time_end:   2019-10-18T18:55Z
+  - time_start: 2020-01-15T11:35Z
+    time_end:   2020-01-15T19:04Z
+  - time_start: 2020-01-20T11:35Z
+    time_end:   2020-01-20T18:33Z
+
+
 ---
