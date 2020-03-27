@@ -22,6 +22,16 @@ evas:
     time_end:   2019-08-21T18:59Z
   - time_start: 2019-10-06T11:39Z
     time_end:   2019-10-06T18:40Z
+  - time_start: 2019-10-11T11:38Z
+    time_end:   2019-10-11T18:23Z
+  - time_start: 2019-11-15T11:39Z
+    time_end:   2019-11-15T18:18Z
+  - time_start: 2019-11-22T12:02Z
+    time_end:   2019-11-22T18:35Z
+  - time_start: 2019-12-02T11:31Z
+    time_end:   2019-12-02T17:33Z
+  - time_start: 2020-01-25T12:04Z
+    time_end:   2020-01-25T18:20Z
 country:
   - USA
 ---
