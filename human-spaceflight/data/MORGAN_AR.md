@@ -15,8 +15,11 @@ references:
   - https://www.nasa.gov/sites/default/files/atoms/files/morgan-ar.pdf
 missions:
   - name: Soyuz MS-13
-    time_start:   2019-07-20T16:28:21Z
+    time_start: 2019-07-20T16:28:21Z
     time_end:
+  - name: Soyuz MS-15
+    time_start:
+    time_end: 2020-04-17T05:16Z
 evas:
   - time_start: 2019-08-21T12:27Z
     time_end:   2019-08-21T18:59Z
