@@ -20,7 +20,7 @@ missions:
     time_start:   2011-07-08T15:29Z
     time_end:     2011-07-21T09:58Z
   - name: SpaceX Demo-2
-    time_start:
+    time_start: 2020-05-27T20:32Z
     time_end:
     
 evas:
