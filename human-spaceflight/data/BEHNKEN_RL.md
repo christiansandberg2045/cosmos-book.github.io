@@ -18,7 +18,10 @@ missions:
     time_end:     2008-03-27T00:40:42Z
   - name: STS-130
     time_start:   2010-02-08T09:14Z
-    time_end:     2010-02-22T03:22:11Z
+    time_end:     2010-02-22T03:22:11Z 
+  - name: SpaceX Demo-2
+    time_start: 2020-05-27T20:32Z
+    time_end:
 evas:
   - time_start: 2008-03-17T22:51Z
     time_end:   2008-03-18T05:44Z
