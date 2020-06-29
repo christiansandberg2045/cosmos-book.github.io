@@ -19,8 +19,8 @@ missions:
   - name: STS-135
     time_start:   2011-07-08T15:29Z
     time_end:     2011-07-21T09:58Z
-  - name: SpaceX Demo-2
-    time_start: 2020-05-27T20:32Z
+  - name: Crew Dragon SpX-DM2
+    time_start: 2020-05-30T19:22:45Z
     time_end:
     
 evas:
