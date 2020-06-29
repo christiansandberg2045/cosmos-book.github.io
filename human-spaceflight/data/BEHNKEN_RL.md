@@ -19,8 +19,8 @@ missions:
   - name: STS-130
     time_start:   2010-02-08T09:14Z
     time_end:     2010-02-22T03:22:11Z 
-  - name: SpaceX Demo-2
-    time_start: 2020-05-27T20:32Z
+  - name: Crew Dragon SpX-DM2
+    time_start: 2020-05-30T19:22:45Z
     time_end:
 evas:
   - time_start: 2008-03-17T22:51Z
@@ -35,6 +35,8 @@ evas:
     time_end:   2010-02-14T08:14Z
   - time_start: 2010-02-17T02:15Z
     time_end:   2010-02-17T08:03Z
+  - time_start: 2020-06-26T11:32Z
+    time_end:   2020-06-26T17:39Z
 gender:	Male
 country:
   - USA
