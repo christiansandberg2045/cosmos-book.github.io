@@ -21,7 +21,7 @@ missions:
     time_end:     2010-02-22T03:22:11Z 
   - name: Crew Dragon SpX-DM2
     time_start: 2020-05-30T19:22:45Z
-    time_end:
+    time_end: 2020-08-02T18:48:06Z
 evas:
   - time_start: 2008-03-17T22:51Z
     time_end:   2008-03-18T05:44Z
@@ -37,6 +37,12 @@ evas:
     time_end:   2010-02-17T08:03Z
   - time_start: 2020-06-26T11:32Z
     time_end:   2020-06-26T17:39Z
+  - time_start: 2020-07-01T11:13Z
+    time_end:   2020-07-01T17:14Z
+  - time_start: 2020-07-16T11:10Z
+    time_end:   2020-07-16T17:10Z  
+  - time_start: 2020-07-21T11:12Z
+    time_end:   2020-07-21T16:41Z 
 gender:	Male
 country:
   - USA
