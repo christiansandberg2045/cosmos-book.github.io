@@ -19,6 +19,7 @@ missions:
     time_end:     2016-10-30T03:58Z
   - name: Soyuz MS-17
     time_start:   2020-10-14T05:45:04Z
+    time_end:
 evas:
   - time_start: 2016-08-19T12:04Z
     time_end:   2016-08-19T18:02Z
