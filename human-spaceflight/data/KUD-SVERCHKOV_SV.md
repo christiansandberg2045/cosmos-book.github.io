@@ -10,6 +10,7 @@ references:
 missions:
   - name: Soyuz MS-17
     time_start:   2020-10-14T05:45:04Z
+    time_end:
 evas:
 gender:	Male
 ---
