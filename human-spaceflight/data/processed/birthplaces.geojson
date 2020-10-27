@@ -4040,6 +4040,21 @@
 			"type": "Feature",
 			"geometry": {
 				"type": "Point",
+				"coordinates": [0, 0]
+			},
+			"properties": {
+				"title": "KUD-SVERCHKOV, Sergei Vladimirovich",
+				"date": "1983-08-23",
+				"birthplace": "Vyazniki, Vladimir Oblast, Soviet Union",
+				"data": "https://github.com/cosmos-book/cosmos-book.github.io/tree/master/human-spaceflight/data/KUD-SVERCHKOV_SV.md",
+				"marker-size": "medium",
+				"marker-color": "#f04031",
+				"marker-symbol": "circle"
+			}
+		},{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
 				"coordinates": [4.89319, 52.373119]
 			},
 			"properties": {
