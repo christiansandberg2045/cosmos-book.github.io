@@ -1835,6 +1835,21 @@
 			"type": "Feature",
 			"geometry": {
 				"type": "Point",
+				"coordinates": [0, 0]
+			},
+			"properties": {
+				"title": "DUBROV, Pyotr Valerievich",
+				"date": "1978-01-30",
+				"birthplace": "Washington D.C.",
+				"data": "https://github.com/cosmos-book/cosmos-book.github.io/tree/master/human-spaceflight/data/DUBROV_PV.md",
+				"marker-size": "medium",
+				"marker-color": "#f04031",
+				"marker-symbol": "circle"
+			}
+		},{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
 				"coordinates": [-71.056702, 42.358631]
 			},
 			"properties": {
@@ -2697,6 +2712,21 @@
 				"date": "1921-07-18",
 				"birthplace": "Cambridge, Ohio",
 				"data": "https://github.com/cosmos-book/cosmos-book.github.io/tree/master/human-spaceflight/data/GLENN_JHJ.md",
+				"marker-size": "medium",
+				"marker-color": "#00a2d3",
+				"marker-symbol": "circle"
+			}
+		},{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-117.755833, 34.060833 ]
+			},
+			"properties": {
+				"title": "GLOVER, Victor J.",
+				"date": "1976-04-30",
+				"birthplace": "Pomona, California",
+				"data": "https://github.com/cosmos-book/cosmos-book.github.io/tree/master/human-spaceflight/data/GLOVER_VJ.md",
 				"marker-size": "medium",
 				"marker-color": "#00a2d3",
 				"marker-symbol": "circle"
