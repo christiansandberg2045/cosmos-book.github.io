@@ -16,7 +16,7 @@ references:
 missions:
   - name: SpaceX Crew-1
     time_start:   2020-11-16T00:27:17Z
-    time_end:     
+    time_end:
 evas:
 gender:	Male
 country:
