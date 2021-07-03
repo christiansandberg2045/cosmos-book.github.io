@@ -6,7 +6,7 @@ dob:	1978-01-30
 birthplace:
   - name:	Khabarovsk, Russia SFSR
     latitude:	48.483
-	longitude:	135.083
+    longitude:	135.083
 country:
   - RUS
 references:
