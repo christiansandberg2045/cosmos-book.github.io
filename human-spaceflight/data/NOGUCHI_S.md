@@ -13,6 +13,7 @@ country:
 references:
   - http://www.spacefacts.de/bios/international/english/noguchi_soichi.htm
   - http://www.spacefacts.de/eva/international/english/noguchi_soichi.htm
+  - https://en.wikipedia.org/wiki/List_of_International_Space_Station_spacewalks
 missions:
   - name: STS-114
     time_start:   2005-07-26T14:39Z
@@ -22,7 +23,7 @@ missions:
     time_end:     2010-06-02T03:26Z
   - name: SpaceX Crew-1
     time_start:   2020-11-16T00:27:17Z
-    time_end:
+    time_end:	2021-05-02T06:56:33Z
 evas:
   - time_start: 2005-07-30T09:48Z
     time_end:   2005-07-30T17:36Z
@@ -30,5 +31,7 @@ evas:
     time_end:   2005-08-01T15:56Z
   - time_start: 2005-08-03T08:48Z
     time_end:   2005-08-03T14:49Z
+  - time_start:	2021-03-05T11:37Z
+    time_end:	2021-03-05T18:33Z
 gender:	Male
 ---
