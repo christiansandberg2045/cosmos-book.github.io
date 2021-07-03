@@ -5,18 +5,28 @@ type:	military
 dob:	1976-04-30
 birthplace:
   - name:	Pomona, California
-    latitude:	34.060833 
-    longitude:	-117.755833
+    latitude:	34.06083
+    longitude:	-117.75583
 twitter:	AstroVicGlover
 qualifications:
-  - MSc in flight test engineering
-  - MSc in systems engineering
+  - BSc in General Engineering
+  - MSc in Flight test engineering
+  - MSc in Systems Engineering
+  - Master of Military Operational Art and Science
 references:
+  - https://en.wikipedia.org/wiki/Victor_J._Glover
+  - https://en.wikipedia.org/wiki/List_of_International_Space_Station_spacewalks
 missions:
   - name: SpaceX Crew-1
-    time_start: 2020-11-16T00:27:17Z
-    time_end:
+    time_start:   2020-11-16T00:27:17Z
+    time_end:	2021-05-02T06:56:33Z
 evas:
+  - time_start:	2021-01-27T11:28Z
+    time_end:	2021-01-27T18:24Z
+  - time_start: 2021-02-01T12:56Z
+    time_end:	2021-02-01T18:16Z
+  - time_start:	2021-02-28T11:12Z
+    time_end:	2021-02-28T18:16Z
 gender:	Male
 country:
   - USA
