@@ -6,7 +6,7 @@ dob:	1983-08-23
 birthplace:
   - name:	Baikonur, Kazakh SSR
     latitude:	45.61667
-	  longitude:	63.31667
+    longitude:	63.31667
 country:
   - RUS
 references:
