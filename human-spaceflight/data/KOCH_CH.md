@@ -15,11 +15,8 @@ country:
   - USA
 missions:
   - name: Soyuz MS-12
-    time_start:	2019-03-14T19:14Z
-    time_end:	
-  - name: Soyuz MS-13
-    time_start:	
-    time_end:	2020-02-06T09:12Z
+    time_start: 2019-03-14T19:14Z
+    time_end:   2020-02-06T09:12Z
 evas:
   - time_start: 2019-03-29T11:42Z
     time_end:   2019-03-29T18:27Z
