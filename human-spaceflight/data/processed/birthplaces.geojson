@@ -335,6 +335,21 @@
 			"type": "Feature",
 			"geometry": {
 				"type": "Point",
+				"coordinates": [-91.178611, 30.4475]
+			},
+			"properties": {
+				"title": "ARCENEAUX, Haley",
+				"date": "1991-12-04",
+				"birthplace": "Baton Rouge, Louisiana, USA",
+				"data": "https://github.com/cosmos-book/cosmos-book.github.io/tree/master/human-spaceflight/data/ARCENEAUX_H.md",
+				"marker-size": "medium",
+				"marker-color": "#7c52a1",
+				"marker-symbol": "circle"
+			}
+		},{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
 				"coordinates": [-87.789932, 41.887161]
 			},
 			"properties": {
@@ -3494,6 +3509,21 @@
 				"data": "https://github.com/cosmos-book/cosmos-book.github.io/tree/master/human-spaceflight/data/IRWIN_JB.md",
 				"marker-size": "medium",
 				"marker-color": "#00a2d3",
+				"marker-symbol": "circle"
+			}
+		},{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-74.343447, 40.651644 ]
+			},
+			"properties": {
+				"title": "ISAACMAN, Jared",
+				"date": "1983-02-11",
+				"birthplace": "Westfield, New Jersey",
+				"data": "https://github.com/cosmos-book/cosmos-book.github.io/tree/master/human-spaceflight/data/ISAACMAN_J.md",
+				"marker-size": "medium",
+				"marker-color": "#7c52a1",
 				"marker-symbol": "circle"
 			}
 		},{
