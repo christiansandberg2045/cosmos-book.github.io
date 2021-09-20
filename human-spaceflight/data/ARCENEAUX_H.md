@@ -2,7 +2,7 @@
 category:	commercial tourist
 name:	ARCENEAUX, Haley
 type:	civilian
-dob:	1991-04-12
+dob:	1991-12-04
 birthplace:
   - name:	Baton Rouge, Louisiana, USA
     latitude:	30.4475
