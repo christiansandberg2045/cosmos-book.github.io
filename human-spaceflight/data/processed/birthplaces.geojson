@@ -6095,6 +6095,21 @@
 			"type": "Feature",
 			"geometry": {
 				"type": "Point",
+				"coordinates": [144.75, 13.479167]
+			},
+			"properties": {
+				"title": "PROCTOR, Sian Haley",
+				"date": "1970-03-28",
+				"birthplace": "Hagåtña, Guam",
+				"data": "https://github.com/cosmos-book/cosmos-book.github.io/tree/master/human-spaceflight/data/PROCTOR_SH.md",
+				"marker-size": "medium",
+				"marker-color": "#7c52a1",
+				"marker-symbol": "circle"
+			}
+		},{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
 				"coordinates": [60.583, 56.833]
 			},
 			"properties": {
@@ -6779,6 +6794,21 @@
 				"data": "https://github.com/cosmos-book/cosmos-book.github.io/tree/master/human-spaceflight/data/SELLERS_PJ.md",
 				"marker-size": "medium",
 				"marker-color": "#00a2d3",
+				"marker-symbol": "circle"
+			}
+		},{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-80.624167, 35.500278]
+			},
+			"properties": {
+				"title": "SEMBROSKI, Christopher",
+				"date": "1979-08-28",
+				"birthplace": "Kannapolis, North Carolina",
+				"data": "https://github.com/cosmos-book/cosmos-book.github.io/tree/master/human-spaceflight/data/SEMBROSKI_C.md",
+				"marker-size": "medium",
+				"marker-color": "#7c52a1",
 				"marker-symbol": "circle"
 			}
 		},{
