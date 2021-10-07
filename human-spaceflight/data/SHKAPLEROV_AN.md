@@ -24,6 +24,9 @@ missions:
   - name: Soyuz MS-07
     time_start:   2017-12-17T07:21:00Z
     time_end:	2018-06-03T12:39Z
+  - name: Soyuz MS-19
+    time_start:   2021-10-05T08:55:02Z
+    time_end:
 evas:
   - time_start: 2012-02-16T14:31Z
     time_end:   2012-02-16T20:46Z
