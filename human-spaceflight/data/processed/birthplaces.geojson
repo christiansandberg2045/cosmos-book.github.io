@@ -5870,6 +5870,21 @@
 			"type": "Feature",
 			"geometry": {
 				"type": "Point",
+				"coordinates": [28.333333, 57.816667]
+			},
+			"properties": {
+				"title": "PERESILD, Yulia Sergeevna",
+				"date": "1984-09-05",
+				"birthplace": "Pskov, Russian SFSR",
+				"data": "https://github.com/cosmos-book/cosmos-book.github.io/tree/master/human-spaceflight/data/PERESILD_YS.md",
+				"marker-size": "medium",
+				"marker-color": "#7c52a1",
+				"marker-symbol": "circle"
+			}
+		},{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
 				"coordinates": [-5.535, 33.882462]
 			},
 			"properties": {
@@ -6974,6 +6989,21 @@
 				"data": "https://github.com/cosmos-book/cosmos-book.github.io/tree/master/human-spaceflight/data/SHEPHERD_WM.md",
 				"marker-size": "medium",
 				"marker-color": "#00a2d3",
+				"marker-symbol": "circle"
+			}
+		},{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [37.617222, 55.755833]
+			},
+			"properties": {
+				"title": "SHIPENKO, Klim Alekseevich",
+				"date": "1983-06-16",
+				"birthplace": "Moscow, Russian SFSR",
+				"data": "https://github.com/cosmos-book/cosmos-book.github.io/tree/master/human-spaceflight/data/SHIPENKO_KA.md",
+				"marker-size": "medium",
+				"marker-color": "#7c52a1",
 				"marker-symbol": "circle"
 			}
 		},{
