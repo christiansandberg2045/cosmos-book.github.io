@@ -21,6 +21,9 @@ missions:
   - name: Soyuz TMA-07M
     time_start:   2012-12-19T12:12:36Z
     time_end:     2013-05-14T02:32Z
+  - name: SpaceX Crew-3
+    time_start:
+    time_end:
 evas:
   - time_start: 2009-07-20T15:27Z
     time_end:   2009-07-20T22:20Z
