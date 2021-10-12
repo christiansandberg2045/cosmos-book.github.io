@@ -11,7 +11,7 @@ country:
   - USA
 gender:	Male
 qualifications:
-  - MSc in Aeronautical and Astronautical Engineering
+  - MSc in aeronautical and astronautical engineering
 references:
 missions:
   - name: SpaceX Crew-3
