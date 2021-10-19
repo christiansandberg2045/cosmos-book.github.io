@@ -16,6 +16,9 @@ missions:
   - name: Shenzhou VII
     time_start:   2008-09-25T21:10:04Z
     time_end:     2008-09-28T09:38Z
+  - name: Shenzhou-13
+    time_start: 2021-10-15T16:23:56Z
+    time_end:
 evas:
   - time_start: 2008-09-27
     duration:   0h22m
