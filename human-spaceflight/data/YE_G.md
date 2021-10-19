@@ -13,7 +13,7 @@ references:
   - http://www.spacefacts.de/bios/international/english/ye_guangfu.htm
 missions:
   - name: Shenzhou-13
-    time_start:
+    time_start: 2021-10-15T16:23:56Z
     time_end:
 evas:
   - time_start:
