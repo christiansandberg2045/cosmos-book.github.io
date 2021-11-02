@@ -8495,6 +8495,21 @@
 			"type": "Feature",
 			"geometry": {
 				"type": "Point",
+				"coordinates": [104.063333, 30.66]
+			},
+			"properties": {
+				"title": "YE, Guangfu",
+				"date": "1980-09-01",
+				"birthplace": "Chengdu, Sichuan",
+				"data": "https://github.com/cosmos-book/cosmos-book.github.io/tree/master/human-spaceflight/data/YE_G.md",
+				"marker-size": "medium",
+				"marker-color": "#ffcb06",
+				"marker-symbol": "circle"
+			}
+		},{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
 				"coordinates": [126.833847, 35.15007]
 			},
 			"properties": {
