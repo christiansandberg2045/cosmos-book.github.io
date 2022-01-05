@@ -14,8 +14,8 @@ qualifications:
   - MSc in aeronautical and astronautical engineering
 references:
 missions:
-  - name: SpaceX Crew-3
-    time_start:
-    time_end:
+  - name: SpaceX Crew-2
+    time_start:	2021-04-23T09:49:02Z
+    time_end:   2021-11-09T03:33:15Z
 evas:
 ---
