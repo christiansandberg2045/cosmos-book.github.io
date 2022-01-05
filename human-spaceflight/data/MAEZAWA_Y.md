@@ -1,5 +1,5 @@
 ---
-category:	commercial tourist
+category:	commercial
 name:	MAEZAWA, Yusaku
 type:	civilian
 dob:	1975-11-22
