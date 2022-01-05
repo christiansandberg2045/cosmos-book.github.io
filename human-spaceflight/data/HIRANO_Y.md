@@ -1,6 +1,6 @@
 ---
 category:	commercial
-name:	Hirano, Yozo
+name:	HIRANO, Yozo
 type:	civilian
 dob:	1985-12-10
 birthplace:
