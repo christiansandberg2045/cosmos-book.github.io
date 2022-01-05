@@ -590,6 +590,21 @@
 			"type": "Feature",
 			"geometry": {
 				"type": "Point",
+				"coordinates": [-112.447222, 42.875278]
+			},
+			"properties": {
+				"title": "BARRON, Kayla Jane",
+				"date": "1987-09-17",
+				"birthplace": "Pocatello, Idaho",
+				"data": "https://github.com/cosmos-book/cosmos-book.github.io/tree/master/human-spaceflight/data/BARRON_KJ.md",
+				"marker-size": "medium",
+				"marker-color": "#00a2d3",
+				"marker-symbol": "circle"
+			}
+		},{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
 				"coordinates": [-73.407654, 41.113659]
 			},
 			"properties": {
@@ -1332,6 +1347,21 @@
 				"date": "1950-04-05",
 				"birthplace": "San Jose, Costa Rica",
 				"data": "https://github.com/cosmos-book/cosmos-book.github.io/tree/master/human-spaceflight/data/CHANG-DIAZ_FR.md",
+				"marker-size": "medium",
+				"marker-color": "#00a2d3",
+				"marker-symbol": "circle"
+			}
+		},{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-87.95, 43.05]
+			},
+			"properties": {
+				"title": "CHARI, Raja Jon Vurputoor",
+				"date": "1977-06-24",
+				"birthplace": "Milwaukee, Wisconsin",
+				"data": "https://github.com/cosmos-book/cosmos-book.github.io/tree/master/human-spaceflight/data/CHARI_RJV.md",
 				"marker-size": "medium",
 				"marker-color": "#00a2d3",
 				"marker-symbol": "circle"
@@ -3365,6 +3395,21 @@
 			"type": "Feature",
 			"geometry": {
 				"type": "Point",
+				"coordinates": [133, 34.066667]
+			},
+			"properties": {
+				"title": "MAEZAWA, Yusaku",
+				"date": "1985-12-10",
+				"birthplace": "Imabari, Ehime, Japan",
+				"data": "https://github.com/cosmos-book/cosmos-book.github.io/tree/master/human-spaceflight/data/HIRANO_Y.md",
+				"marker-size": "medium",
+				"marker-color": "#7c52a1",
+				"marker-symbol": "circle"
+			}
+		},{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
 				"coordinates": [-88.053238, 30.68639]
 			},
 			"properties": {
@@ -4640,6 +4685,21 @@
 			"type": "Feature",
 			"geometry": {
 				"type": "Point",
+				"coordinates": [140, 35.783333]
+			},
+			"properties": {
+				"title": "MAEZAWA, Yusaku",
+				"date": "1975-11-22",
+				"birthplace": "Kamagaya, Chiba, Japan",
+				"data": "https://github.com/cosmos-book/cosmos-book.github.io/tree/master/human-spaceflight/data/MAEZAWA_Y.md",
+				"marker-size": "medium",
+				"marker-color": "#7c52a1",
+				"marker-symbol": "circle"
+			}
+		},{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
 				"coordinates": [-89.98423, 38.512131]
 			},
 			"properties": {
@@ -4799,6 +4859,21 @@
 				"data": "https://github.com/cosmos-book/cosmos-book.github.io/tree/master/human-spaceflight/data/MATTINGLY_TKII.md",
 				"marker-size": "medium",
 				"marker-color": "#00a2d3",
+				"marker-symbol": "circle"
+			}
+		},{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [7.166667, 49.466667]
+			},
+			"properties": {
+				"title": "MAURER, Matthias Josef",
+				"date": "1970-03-18",
+				"birthplace": "Sankt Wendel, Germany",
+				"data": "https://github.com/cosmos-book/cosmos-book.github.io/tree/master/human-spaceflight/data/MAURER_MJ.md",
+				"marker-size": "medium",
+				"marker-color": "#67c18d",
 				"marker-symbol": "circle"
 			}
 		},{
