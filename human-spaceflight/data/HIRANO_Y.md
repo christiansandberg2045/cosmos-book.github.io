@@ -1,6 +1,6 @@
 ---
 category:	commercial tourist
-name:	MAEZAWA, Yusaku
+name:	Hirano, Yozo
 type:	civilian
 dob:	1985-12-10
 birthplace:
