@@ -15,6 +15,8 @@ references:
 missions:
   - name:	Soyuz MS-18
     time_start:	2021-04-09T07:42:41Z
+  - name:	Soyuz MS-19
+    time_end:	2022-03-30T11:28:04Z
 evas:
   - time_start:	2021-06-02T05:53Z
   - time_end:	2021-06-02T13:12Z
