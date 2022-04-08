@@ -19,6 +19,8 @@ missions:
   - name: Soyuz MS-08
     time_start:   2018-03-21T17:44Z
     time_end:     2018-10-04T11:45Z
+  - name: Soyuz MS-21
+    time_start:   2022-03-18T15:55:18Z
 evas:
   - time_start: 2014-06-19T14:10Z
     time_end:   2014-06-19T21:33Z
