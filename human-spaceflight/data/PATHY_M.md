@@ -2,7 +2,7 @@
 category:	commercial tourist
 name:	PATHY, Mark
 type:	civilian
-dob: 1969-07-01
+dob:	1969-07-01
 birthplace:
   - name:	Montreal, Canada
     latitude: 45.508889
