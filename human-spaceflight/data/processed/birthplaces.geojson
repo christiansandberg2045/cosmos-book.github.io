@@ -1580,6 +1580,21 @@
 			"type": "Feature",
 			"geometry": {
 				"type": "Point",
+				"coordinates": [-73.757222, 42.6525]
+			},
+			"properties": {
+				"title": "CONNOR, Larry",
+				"date": "",
+				"birthplace": "Albany, New York",
+				"data": "https://github.com/cosmos-book/cosmos-book.github.io/tree/master/human-spaceflight/data/CONNOR_L.md",
+				"marker-size": "medium",
+				"marker-color": "#7c52a1",
+				"marker-symbol": "circle"
+			}
+		},{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
 				"coordinates": [-75.133957, 40.007629]
 			},
 			"properties": {
@@ -3398,7 +3413,7 @@
 				"coordinates": [133, 34.066667]
 			},
 			"properties": {
-				"title": "Hirano, Yozo",
+				"title": "HIRANO, Yozo",
 				"date": "1985-12-10",
 				"birthplace": "Imabari, Ehime, Japan",
 				"data": "https://github.com/cosmos-book/cosmos-book.github.io/tree/master/human-spaceflight/data/HIRANO_Y.md",
@@ -4032,6 +4047,21 @@
 				"date": "1960-04-15",
 				"birthplace": "Syzran, Kuibyshev Region, Russia",
 				"data": "https://github.com/cosmos-book/cosmos-book.github.io/tree/master/human-spaceflight/data/KORNIYENKO_MB.md",
+				"marker-size": "medium",
+				"marker-color": "#f04031",
+				"marker-symbol": "circle"
+			}
+		},{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [0, 0]
+			},
+			"properties": {
+				"title": "KORSAKOV, Sergei Vladimirovich",
+				"date": "1984-09-01",
+				"birthplace": "Syzran, Kuibyshev Region, Russia",
+				"data": "https://github.com/cosmos-book/cosmos-book.github.io/tree/master/human-spaceflight/data/KORSAKOV_SV.md",
 				"marker-size": "medium",
 				"marker-color": "#f04031",
 				"marker-symbol": "circle"
@@ -4859,6 +4889,21 @@
 				"data": "https://github.com/cosmos-book/cosmos-book.github.io/tree/master/human-spaceflight/data/MATTINGLY_TKII.md",
 				"marker-size": "medium",
 				"marker-color": "#00a2d3",
+				"marker-symbol": "circle"
+			}
+		},{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [0, 0]
+			},
+			"properties": {
+				"title": "MATVEYEV, Denis Vladimirovich",
+				"date": "1983-04-25",
+				"birthplace": "Chicago, Illinois",
+				"data": "https://github.com/cosmos-book/cosmos-book.github.io/tree/master/human-spaceflight/data/MATVEYEV_DV.md",
+				"marker-size": "medium",
+				"marker-color": "#f04031",
 				"marker-symbol": "circle"
 			}
 		},{
@@ -5849,6 +5894,21 @@
 				"data": "https://github.com/cosmos-book/cosmos-book.github.io/tree/master/human-spaceflight/data/PARMITANO_LS.md",
 				"marker-size": "medium",
 				"marker-color": "#67c18d",
+				"marker-symbol": "circle"
+			}
+		},{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-73.554167, 45.508889]
+			},
+			"properties": {
+				"title": "PATHY, Mark",
+				"date": "",
+				"birthplace": "Montreal, Canada",
+				"data": "https://github.com/cosmos-book/cosmos-book.github.io/tree/master/human-spaceflight/data/PATHY_M.md",
+				"marker-size": "medium",
+				"marker-color": "#7c52a1",
 				"marker-symbol": "circle"
 			}
 		},{
@@ -7319,6 +7379,21 @@
 				"data": "https://github.com/cosmos-book/cosmos-book.github.io/tree/master/human-spaceflight/data/STEWART_RL.md",
 				"marker-size": "medium",
 				"marker-color": "#00a2d3",
+				"marker-symbol": "circle"
+			}
+		},{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.983333, 32.816667]
+			},
+			"properties": {
+				"title": "STIBBE, Eytan",
+				"date": "",
+				"birthplace": "Haifa, Israel",
+				"data": "https://github.com/cosmos-book/cosmos-book.github.io/tree/master/human-spaceflight/data/STIBBE_E.md",
+				"marker-size": "medium",
+				"marker-color": "#7c52a1",
 				"marker-symbol": "circle"
 			}
 		},{
