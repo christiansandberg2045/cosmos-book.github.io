@@ -2,18 +2,18 @@
 category:	commercial tourist
 name:	CONNOR, Larry
 type:	civilian
-dob:
+dob: 1950-01-06
 birthplace:
-  - name:	
-    latitude:
-    longitude:
+  - name:	Albany, New York
+    latitude: 42.6525
+    longitude: -73.757222
 country:
   - USA
 gender:	Male
 qualifications:
 references:
 missions:
-  - name: SpaceX AX-1
-    time_start:
+  - name: Axiom Mission 1
+    time_start:   2022-04-08T15:17:12Z
 evas:
 ---
