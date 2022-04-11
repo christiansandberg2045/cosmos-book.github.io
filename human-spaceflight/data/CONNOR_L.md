@@ -2,7 +2,7 @@
 category:	commercial tourist
 name:	CONNOR, Larry
 type:	civilian
-dob: 1950-01-06
+dob:	1950-01-06
 birthplace:
   - name:	Albany, New York
     latitude: 42.6525
