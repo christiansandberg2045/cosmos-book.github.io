@@ -25,7 +25,7 @@ missions:
   - name: Soyuz TMA-9
     time_start:   2006-09-18T04:08Z
     time_end:     2007-04-21T12:32Z
-  - name: SpaceX AX-1
+  - name: Axiom Mission 1
     time_start:   2022-04-08T15:17:12Z
 evas:
   - time_start: 2000-10-16T14:15Z
