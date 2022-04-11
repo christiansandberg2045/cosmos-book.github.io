@@ -2,7 +2,7 @@
 category:	commercial tourist
 name:	STIBBE, Eytan
 type:	civilian
-dob: 1958-01-12
+dob:	1958-01-12
 birthplace:
   - name:	Haifa, Israel
     latitude: 32.816667
