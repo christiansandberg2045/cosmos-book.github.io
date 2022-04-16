@@ -18,6 +18,6 @@ missions:
     time_end:     2013-06-26T00:08Z
   - name: Shenzhou-13
     time_start: 2021-10-15T16:23:56Z
-    time_end:
+    time_end:  2022-04-16T01:56:37Z
 evas:
 ---
