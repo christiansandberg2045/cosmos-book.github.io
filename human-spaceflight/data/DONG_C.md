@@ -1,5 +1,5 @@
 ---
-category:	taikonaut
+category: taikonaut
 name:	DONG, Chen
 type:	military
 dob:	1978-12-01
@@ -16,7 +16,10 @@ references:
 missions:
   - name:	Shenzhou 11
     time_start:   2016-10-16T23:30:32Z
-	time_end:     2016-11-18T06:15Z
+    time_end:     2016-11-18T06:15Z
+  - name:	Shenzhou 14
+    time_start:   2022-06-05T02:44:10Z
+    time_end:
 evas:
 gender:	Male
 ---
