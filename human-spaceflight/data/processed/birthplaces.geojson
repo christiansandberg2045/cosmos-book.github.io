@@ -1160,6 +1160,21 @@
 			"type": "Feature",
 			"geometry": {
 				"type": "Point",
+				"coordinates": [115.56, 38.002]
+			},
+			"properties": {
+				"title": "CAI, Xuzhe",
+				"date": "1976-05-01",
+				"birthplace": "Shenzhou, Hebei Province, China",
+				"data": "https://github.com/cosmos-book/cosmos-book.github.io/tree/master/human-spaceflight/data/CAI_ X.md",
+				"marker-size": "medium",
+				"marker-color": "#ffcb06",
+				"marker-symbol": "circle"
+			}
+		},{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
 				"coordinates": [-118.036522, 34.133499]
 			},
 			"properties": {
@@ -1873,7 +1888,7 @@
 				"birthplace": "Luoyang, Henan",
 				"data": "https://github.com/cosmos-book/cosmos-book.github.io/tree/master/human-spaceflight/data/DONG_C.md",
 				"marker-size": "medium",
-				"marker-color": "#ffcb06",
+				"marker-color": "#000000",
 				"marker-symbol": "circle"
 			}
 		},{
@@ -3402,6 +3417,21 @@
 				"date": "1950-01-28",
 				"birthplace": "Clinton, Iowa",
 				"data": "https://github.com/cosmos-book/cosmos-book.github.io/tree/master/human-spaceflight/data/HILMERS_DC.md",
+				"marker-size": "medium",
+				"marker-color": "#00a2d3",
+				"marker-symbol": "circle"
+			}
+		},{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-78.878056, 35.0525]
+			},
+			"properties": {
+				"title": "HINES, Robert Thomas, Jr.",
+				"date": "1975-01-11",
+				"birthplace": "Fayetteville, North Carolina, USA",
+				"data": "https://github.com/cosmos-book/cosmos-book.github.io/tree/master/human-spaceflight/data/HINES_RT.md",
 				"marker-size": "medium",
 				"marker-color": "#00a2d3",
 				"marker-symbol": "circle"
@@ -8324,6 +8354,21 @@
 				"data": "https://github.com/cosmos-book/cosmos-book.github.io/tree/master/human-spaceflight/data/WANG_Y.md",
 				"marker-size": "medium",
 				"marker-color": "#ffcb06",
+				"marker-symbol": "circle"
+			}
+		},{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-77.226389, 39.131944]
+			},
+			"properties": {
+				"title": "WATKINS, Jessica Andrea",
+				"date": "1988-05-14",
+				"birthplace": "Gaithersburg, Maryland, USA",
+				"data": "https://github.com/cosmos-book/cosmos-book.github.io/tree/master/human-spaceflight/data/WATKINS_JA.md",
+				"marker-size": "medium",
+				"marker-color": "#00a2d3",
 				"marker-symbol": "circle"
 			}
 		},{
