@@ -16,5 +16,8 @@ missions:
   - name: Shenzhou V
     time_start:   2003-10-15T01:00:03Z
     time_end:     2003-10-15T22:22:49Z
+  - name:	Shenzhou 14
+    time_start:   2022-06-05T02:44:10Z
+    time_end:
 evas:
 ---
