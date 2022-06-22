@@ -16,6 +16,6 @@ references:
 missions:
   - name: SpaceX Crew-3
     time_start:	2021-11-11T02:03:30Z
-    time_end:
+    time_end: 2022-05-06T04:43:23Z
 evas:
 ---
