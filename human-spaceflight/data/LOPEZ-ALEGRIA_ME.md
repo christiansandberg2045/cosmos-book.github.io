@@ -27,6 +27,7 @@ missions:
     time_end:     2007-04-21T12:32Z
   - name: Axiom Mission 1
     time_start:   2022-04-08T15:17:12Z
+    time_end:   2022-04-25T17:06:23Z
 evas:
   - time_start: 2000-10-16T14:15Z
     time_end:   2000-10-16T21:22Z
