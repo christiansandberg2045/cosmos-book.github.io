@@ -2,7 +2,7 @@
 category:	astronaut
 name:	RUBIO, Francisco Carlos "Frank"
 type:	military
-dob:	1975-12-11
+dob:	1976-12-11
 birthplace:
   - name:	Los Angeles, California, USA
     latitude:	34.05
