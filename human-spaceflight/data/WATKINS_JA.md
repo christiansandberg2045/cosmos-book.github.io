@@ -15,6 +15,7 @@ references:
 missions:
   - name: SpaceX Crew-4
     time_start:   2022-04-27T07:52:55Z
+    time_end:   2022-10-14T20:55:27Z
 evas:
 gender:	Female
 country:
