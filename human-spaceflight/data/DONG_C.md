@@ -19,7 +19,7 @@ missions:
     time_end:     2016-11-18T06:15Z
   - name:	Shenzhou 14
     time_start:   2022-06-05T02:44:10Z
-    time_end:
+    time_end:   2022-12-04T12:09Z
 evas:
 gender:	Male
 ---
