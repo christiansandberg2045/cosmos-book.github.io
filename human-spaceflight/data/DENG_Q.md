@@ -1,8 +1,12 @@
 ---
 category:	taikonaut
 name:	DENG, Qingming
-type:	civilian
-dob:	
+type:	Military
+dob:	1966-03-16
+birthplace:
+  - name:	Yihuang, Jiangxi
+    latitude:	27.546
+    longitude:	116.222
 country:
   - CHN
 references:
