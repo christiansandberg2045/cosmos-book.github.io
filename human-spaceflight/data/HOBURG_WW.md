@@ -1,6 +1,6 @@
 ---
 category:	astronaut
-name:	Hoburg, Warren Woodrow "Woody"
+name:	HOBURG, Warren Woodrow "Woody"
 type:	civilian
 dob:	1985-09-16
 birthplace:
