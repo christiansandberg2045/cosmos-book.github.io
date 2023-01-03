@@ -11,7 +11,7 @@ qualifications:
   - Bachelor in Outdoor education
 references:
 missions:
-  - name: Polaris dawn
+  - name: Polaris Dawn
     time_start:
     time_end:
 evas:
