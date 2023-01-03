@@ -24,5 +24,9 @@ missions:
 evas:
   - time_start:	2021-06-02T05:53Z
   - time_end:	2021-06-02T13:12Z
+  - time_start:	2021-09-03T14:41Z
+  - time_end:	2021-09-03T22:35Z
+  - time_start:	2021-09-09T14:51Z
+  - time_end:	2021-09-09T22:16Z
 gender:	Male
 ---
