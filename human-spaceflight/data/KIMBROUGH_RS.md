@@ -43,6 +43,8 @@ evas:
     time_end:	2017-03-30T18:33Z
   - time_start:	2021-06-16T12:11Z
     time_end:	2021-06-16T19:26Z
+  - time_start:	2021-06-20T11:42Z
+    time_end:	2021-06-20T18:10Z
   - time_start:	2021-06-25T11:52Z
     time_end:	2021-06-25T18:37Z
 gender:	Male
