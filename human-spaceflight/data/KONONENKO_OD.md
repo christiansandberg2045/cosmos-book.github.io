@@ -26,6 +26,9 @@ missions:
   - name: Soyuz MS-11
     time_start:   2018-12-03T11:31Z
     time_end:     2019-06-25T02:47Z
+  - name: Soyuz MS-23
+    time_start:
+    time_end:
 evas:
   - time_start: 2008-07-10T18:48Z
     time_end:	2008-07-11T01:06Z
