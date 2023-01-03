@@ -16,5 +16,8 @@ missions:
   - name: Inspiration4
     time_start:   2021-09-16T00:02:56Z
     time_end:   2021-09-18T23:06:49Z
+  - name: Polaris dawn
+    time_start:
+    time_end:
 evas:
 ---
