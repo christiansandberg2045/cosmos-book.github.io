@@ -32,6 +32,9 @@ missions:
   - name:	Soyuz MS-04
     time_start:   
     time_end:     2017-09-02T01:22Z
+  - name: Axiom Mission 2
+    time_start:
+    time_end:
 evas:
   - time_start: 2002-08-16T09:23Z
     time_end:   2002-08-16T13:48Z
