@@ -17,7 +17,7 @@ references:
   - http://www.spacefacts.de/bios/international/english/al-nevadi_sultan.htm
 missions:
   - name: SpaceX Crew-6
-    time_start:
-    time_end:
+    time_start: 2023-03-02:05:34:14Z
+    time_end: 
 evas:
 ---
