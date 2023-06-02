@@ -7370,6 +7370,21 @@
 			"type": "Feature",
 			"geometry": {
 				"type": "Point",
+				"coordinates": [-147.723056, 64.843611]
+			},
+			"properties": {
+				"title": "SHOFFNER, John Paul",
+				"date": "1955-07-25",
+				"birthplace": "Fairbanks, Alaska",
+				"data": "https://github.com/cosmos-book/cosmos-book.github.io/tree/master/human-spaceflight/data/SHOFFNER_JP.md",
+				"marker-size": "medium",
+				"marker-color": "#7c52a1",
+				"marker-symbol": "circle"
+			}
+		},{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
 				"coordinates": [55.794559, 44.957489]
 			},
 			"properties": {
