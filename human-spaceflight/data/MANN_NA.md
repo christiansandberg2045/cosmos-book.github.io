@@ -13,6 +13,7 @@ references:
 missions:
   - name: SpaceX Crew-5
     time_start:   2022-10-05T16:00:57Z
+    time_end:   2023-03-12T02:02Z
 evas:
 gender:	Female
 country:
