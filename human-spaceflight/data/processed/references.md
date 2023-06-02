@@ -12,12 +12,14 @@
 * **AKSYONOV, Vladimir Viktorovich**: http://www.spacefacts.de/bios/cosmonauts/english/aksyonov_vladimir.htm
 * **AL-BASSAM, Abdulmohsen Hamad**: http://www.spacefacts.de/bios/international/english/albassam_abdulmohsen.htm
 * **AL-MANSOURI, Hazza Ali Abdan Khalfan**: https://en.wikipedia.org/wiki/Hazza_Al_Mansouri
+* **AL-NEYADI, Sultan Saif Muftah Hamad**: http://www.spacefacts.de/bios/international/english/al-nevadi_sultan.htm
 * **AL-SAUD, Sultan bin Salman bin Abdulaziz**: http://www.spacefacts.de/bios/international/english/alsaud_salman.htm
 * **ALDRIN, Edwin 'Buzz'**: http://www.nasa.gov/pdf/740566main_current.pdf
 * **ALEKSANDROV, Aleksandr Panayatov 'Sasha'**: http://www.spacefacts.de/bios/international/english/alexandrov_aleksandr.htm
 * **ALEKSEYEV, Vladimir Borisovich**: http://www.spacefacts.de/bios/cosmonauts/english/alekseyev_vladimir.htm
 * **ALLEN, Andrew M.**: http://www.nasa.gov/pdf/740566main_current.pdf
 * **ALLEN, Joseph P.**: http://www.nasa.gov/pdf/740566main_current.pdf
+* **ALQARNI, Ali**: http://www.spacefacts.de/bios/international/english/alqarni_ali.htm
 * **ALTMAN, Scott D.**: http://www.nasa.gov/pdf/740566main_current.pdf
 * **AMELKINA, Galina Vasiliyevna**: http://www.spacefacts.de/bios/cosmonauts/english/amelkina_galina.htm
 * **ANDERSON, Clayton C.**: http://www.nasa.gov/pdf/740566main_current.pdf
@@ -54,6 +56,7 @@
 * **BAKER, Michael A.**: http://www.nasa.gov/pdf/740566main_current.pdf
 * **BALANDIN, Aleksandr Nikolayevich**: http://www.spacefacts.de/bios/cosmonauts/english/balandin_aleksandr.htm
 * **BALANDIN, Aleksandr Nikolayevich**: http://www.spacefacts.de/eva/cosmonauts/english/balandin_aleksandr.htm
+* **BARNAWI, Rayyanah**: http://www.spacefacts.de/bios/international/english/barnawi_rayyanah.htm
 * **BARRATT, Michael R.**: http://www.nasa.gov/pdf/740566main_current.pdf
 * **BARRY, Daniel T. (M.D.)**: http://www.nasa.gov/pdf/740566main_current.pdf
 * **BARTOE, John-David F.**: http://www.nasa.gov/pdf/740566main_current.pdf
@@ -132,6 +135,9 @@
 * **CHAPMAN, Philip K.**: http://www.nasa.gov/pdf/740566main_current.pdf
 * **CHAWLA, Kalpana**: http://www.nasa.gov/pdf/740566main_current.pdf
 * **CHELI, Maurizio**: http://www.spacefacts.de/bios/international/english/cheli_maurizio.htm
+* **CHEN, Dong**: http://www.spacefacts.de/bios/international/english/chen_dong.htm
+* **CHEN, Dong**: http://usa.chinadaily.com.cn/china/2016-10/17/content_27077511.htm
+* **CHEN, Dong**: http://mek.kosmo.cz/bio/ostatni/00547.htm
 * **CHEN, Quan**: http://www.spacefacts.de/bios/international/english/chen_quan.htm
 * **CHIAO, Leroy**: http://www.nasa.gov/pdf/740566main_current.pdf
 * **CHILTON, Kevin P., General**: http://www.nasa.gov/pdf/740566main_current.pdf
@@ -175,9 +181,6 @@
 * **DOI, Takao**: http://www.spacefacts.de/bios/international/english/doi_takeo.htm
 * **DOI, Takao**: http://www.spacefacts.de/eva/international/english/doi_takao.htm
 * **DOLGOPOLOV, Gennadi Aleksandrovich**: http://www.spacefacts.de/bios/cosmonauts/english/dolgopolov_gennadi.htm
-* **DONG, Chen**: http://www.spacefacts.de/bios/international/english/chen_dong.htm
-* **DONG, Chen**: http://usa.chinadaily.com.cn/china/2016-10/17/content_27077511.htm
-* **DONG, Chen**: http://mek.kosmo.cz/bio/ostatni/00547.htm
 * **DREW, B. Alvin, Jr.**: http://www.nasa.gov/pdf/740566main_current.pdf
 * **DUBROV, Pyotr Valerievich**: http://www.spacefacts.de/bios/cosmonauts/english/dubrov_pyotr.htm
 * **DUBROV, Pyotr Valerievich**: https://en.wikipedia.org/wiki/Pyotr_Dubrov
@@ -280,6 +283,7 @@
 * **GRUNSFELD, John M.**: http://www.nasa.gov/pdf/740566main_current.pdf
 * **GUBAREV, Aleksei Aleksandrovich**: http://www.spacefacts.de/bios/cosmonauts/english/gubarev_aleksei.htm
 * **GUIDONI, Umberto**: http://www.spacefacts.de/bios/international/english/guidoni_umberto.htm
+* **GUI, Haichao**: http://www.spacefacts.de/bios/international/english/gui_haichao.htm
 * **GULYAYEV, Rudolf Alekseyevich**: http://www.spacefacts.de/bios/cosmonauts/english/gulyayev_rudolf.htm
 * **GULYAYEV, Vladislav Ivanovich**: http://www.spacefacts.de/bios/cosmonauts/english/gulyayev_vladislav.htm
 * **G&Uuml;RRAGCHA, J&uuml;gderdemidiin 'Gurr'**: http://www.spacefacts.de/bios/international/english/gurragcha_jugderdemidin.htm
@@ -291,7 +295,6 @@
 * **HAIGNERÉ, Claudie**: http://www.spacefacts.de/bios/international/english/andre-deshays_claudie.htm
 * **HAIGNERÉ, Jean-Pierre**: http://www.spacefacts.de/bios/international/english/haignere_jean-pierre.htm
 * **HAIGNERÉ, Jean-Pierre**: http://www.spacefacts.de/eva/international/english/haignere_jean-pierre.htm
-* **HAIPENG, Jing**: http://www.spacefacts.de/bios/international/english/jing_haipen.htm
 * **HAISE, Fred W., Jr.**: http://www.nasa.gov/pdf/740566main_current.pdf
 * **HALIK, Nikos 'Nik'**: http://www.spacefacts.de/bios/international/english/halik_nik.htm
 * **HALSELL, James D., Jr.**: http://www.nasa.gov/pdf/740566main_current.pdf
@@ -316,6 +319,7 @@
 * **HILMERS, David C.**: http://www.nasa.gov/pdf/740566main_current.pdf
 * **HIRE, Kathryn P. 'Kay'**: http://www.nasa.gov/pdf/740566main_current.pdf
 * **HOBAUGH, Charles O.**: http://www.nasa.gov/pdf/740566main_current.pdf
+* **HOBURG, Warren Woodrow 'Woody'**: http://www.spacefacts.de/bios/astronauts/english/hoburg_warren.htm
 * **HOFFMAN, Jeffrey A.**: http://www.nasa.gov/pdf/740566main_current.pdf
 * **HOLMES, Christopher John Nicholas**: http://www.spacefacts.de/bios/international/english/holmes_christopher.htm
 * **HOLMQUEST, Donald L.**: http://www.nasa.gov/pdf/740566main_current.pdf
@@ -347,6 +351,7 @@
 * **JEMISON, Mae C.**: http://www.nasa.gov/pdf/740566main_current.pdf
 * **JERNIGAN, Tamara E.**: http://www.nasa.gov/pdf/740566main_current.pdf
 * **JETT, Brent W.**: http://www.nasa.gov/pdf/740566main_current.pdf
+* **JING, Haipeng**: http://www.spacefacts.de/bios/international/english/jing_haipen.htm
 * **JOHNSON, Gregory C.**: http://www.nasa.gov/pdf/740566main_current.pdf
 * **JOHNSON, Gregory H.**: http://www.nasa.gov/pdf/740566main_current.pdf
 * **JONES, Thomas D.**: http://www.nasa.gov/pdf/740566main_current.pdf
@@ -563,6 +568,7 @@
 * **OCKELS, Wubbo Johannes**: http://www.spacefacts.de/bios/international/english/ockels_wubbo.htm
 * **O'CONNOR, Bryan D.**: http://www.nasa.gov/pdf/740566main_current.pdf
 * **OEFELEIN, William A.**: http://www.nasa.gov/pdf/740566main_current.pdf
+* **O'Hara, Loral Ashley**: http://www.spacefacts.de/bios/astronauts/english/o-hara_loral.htm
 * **OLIVAS, John D.**: http://www.nasa.gov/pdf/740566main_current.pdf
 * **OLIVAS, John D.**: http://www.jsc.nasa.gov/Bios/htmlbios/olivas.html
 * **OMELCHENKO, Svetlana Oktyabrevna**: http://www.spacefacts.de/bios/cosmonauts/english/omelchenko_svetlana.htm
@@ -898,4 +904,5 @@
 * **ZHAO, Chuandong**: http://www.spacefacts.de/bios/international/english/zhao_chuandong.htm
 * **ZHOLOBOV, Vitali Mikhailovich**: http://www.spacefacts.de/bios/cosmonauts/english/zholobov_vitali.htm
 * **ZHUKOV, Sergei Aleksandrovich**: http://www.spacefacts.de/bios/cosmonauts/english/zhukov_sergei.htm
+* **ZHU, Yangzhu**: http://www.spacefacts.de/bios/international/english/zhu_yangzhu.htm
 * **ZUDOV, Vyacheslav Dmitriyevich**: http://www.spacefacts.de/bios/cosmonauts/english/zudov_vyacheslav.htm
