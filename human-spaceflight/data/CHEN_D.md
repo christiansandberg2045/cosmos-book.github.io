@@ -1,6 +1,6 @@
 ---
 category:	taikonaut
-name:	DONG, Chen
+name:	CHEN, Dong
 type:	military
 dob:	1978-12-01
 birthplace:
