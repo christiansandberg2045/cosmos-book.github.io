@@ -17,7 +17,7 @@ references:
   - http://www.spacefacts.de/bios/international/english/barnawi_rayyanah.htm
 missions:
   - name: Axiom Mission 2
-    time_start: 2023-05-21:21:37:09Z
+    time_start: 2023-05-21T21:37:09Z
     time_end:
 evas:
 ---
