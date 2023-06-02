@@ -21,7 +21,7 @@ missions:
     time_end:     2001-12-17T17:56:14Z
   - name: STS-111
     time_start:   2002-06-05T21:22:49Z
-    time_end:     2002-06-19T17:58:46Z
+    time_end:     2002-06-19T17:58:45Z
 evas:
   - time_start: 1996-03-15T01:04Z
     time_end:   1996-03-15T06:55Z
