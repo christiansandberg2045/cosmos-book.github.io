@@ -34,7 +34,7 @@ missions:
     time_end:     2017-09-02T01:22Z
   - name: Axiom Mission 2
     time_start: 2023-05-21T21:37:09Z
-    time_end:
+    time_end: 2023-05-31T03:04Z
 evas:
   - time_start: 2002-08-16T09:23Z
     time_end:   2002-08-16T13:48Z
