@@ -20,7 +20,7 @@ missions:
     time_end:     
   - name: STS-117
     time_start:   
-    time_end:     2007-06-22T19:49:39Z
+    time_end:     2007-06-22T19:49:38Z
   - name: Soyuz TMA-05M
     time_start:   2012-07-15T02:40:03Z
     time_end:     2012-11-19T01:53:31Z
