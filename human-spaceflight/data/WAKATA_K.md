@@ -27,6 +27,7 @@ missions:
     time_end:     2014-05-14T01:58Z
   - name: SpaceX Crew-5
     time_start:   2022-10-05T16:00:57Z
+    time_end:   2023-03-12T02:02Z
 evas:
 gender:	Male
 ---
