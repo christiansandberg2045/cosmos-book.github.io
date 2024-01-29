@@ -24,7 +24,7 @@ missions:
     time_end:     2011-03-09T16:58:15Z
   - name: SpaceX Crew-6
     time_start: 2023-03-02T05:34:14Z
-    time_end: 
+    time_end: 2023-09-04T04:17Z
 evas:
   - time_start: 2008-11-18T18:09Z
     time_end:   2008-11-19T01:01Z
