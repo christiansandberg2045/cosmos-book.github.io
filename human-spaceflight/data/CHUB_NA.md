@@ -8,8 +8,8 @@ country:
 references:
   - http://www.spacefacts.de/bios/cosmonauts/english/chub_nikolai.htm
 missions:
-  - name: Soyuz MS-23
-    time_start:
+  - name: Soyuz MS-24
+    time_start: 2023-09-15T15:44:35.417Z
     time_end:
 evas:
 gender:	Male
