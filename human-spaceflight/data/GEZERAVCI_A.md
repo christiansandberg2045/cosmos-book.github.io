@@ -1,18 +1,17 @@
 ---
 category:	international
-name:	WANDT, Hans Marcus
-type:	civilian
-dob:	1980-09-22
+name:	GEZERAVCI, Alper
+type:	military
+dob:	1979-12-02
 birthplace:
-  - name: Hammarö, Sweden
-    latitude:	59.333333 
-    longitude:	13.433333
+  - name: Silifke, Mersin, Turkey
+    latitude:	36.376111 
+    longitude:	33.932222
 qualifications:
-  - MSc Electrical Engineering
 country:
-  - SWE
+  - TUR
 references:
-  - http://www.spacefacts.de/bios/candidates/reserve/english/wandt_marcus.htm
+  - http://www.spacefacts.de/bios/international/english/gezeravci_alper.htm
 missions:
   - name: Axiom Mission 3
     time_start:   2024-01-18T21:49:11Z
