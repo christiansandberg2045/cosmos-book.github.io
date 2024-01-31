@@ -5,7 +5,7 @@ type:	civilian
 dob:	1985-09-16
 birthplace:
   - name:	Pittsburgh, Pennsylvania
-    latitude:	40.439722 
+    latitude:	40.439722
     longitude:	-79.976389
 qualifications:
   - BSc in aeronautics and astronautics
