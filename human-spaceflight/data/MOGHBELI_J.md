@@ -13,7 +13,6 @@ references:
 missions:
   - name: SpaceX Crew-7
     time_start: 2023-08-26T07:27:27Z
-    time_end:
 evas:
 gender:	Female
 country:
