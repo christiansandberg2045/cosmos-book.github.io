@@ -18,7 +18,6 @@ missions:
     time_end:     2011-11-22T02:27Z
   - name: SpaceX Crew-7
     time_start: 2023-08-26T07:27:27Z
-    time_end:
 evas:
 gender:	Male
 ---
