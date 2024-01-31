@@ -5,7 +5,7 @@ type:	civilian
 dob:	1980-09-22
 birthplace:
   - name: Hammarö, Sweden
-    latitude:	59.333333 
+    latitude:	59.333333
     longitude:	13.433333
 qualifications:
   - MSc Electrical Engineering
@@ -16,7 +16,6 @@ references:
 missions:
   - name: Axiom Mission 3
     time_start:   2024-01-18T21:49:11Z
-    time_end:
 evas:
 gender:	Male
 ---
