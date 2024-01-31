@@ -40,6 +40,12 @@ evas:
     time_end:   2011-02-28T22:20Z
   - time_start: 2011-03-02T15:42Z
     time_end:   2011-03-02T21:56Z
+  - time_start: 2023-04-28T13:11Z
+    time_end: 2023-04-28T20:12Z
+  - time_start: 2023-06-09T13:15Z
+    time_end: 2023-06-09T19:18Z
+  - time_start: 2023-06-15T12:42Z
+    time_end: 2023-06-15T18:17Z
 gender:	Male
 country:
   - USA
