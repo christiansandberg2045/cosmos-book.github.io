@@ -14,7 +14,7 @@ references:
   - https://en.wikipedia.org/wiki/Shenzhou_17
 missions:
   - name:	Shenzhou 17
-    time_start:	2023-10-26T03:14:02.491Z
+    time_start:	2023-10-26T03:14:02Z
     time_end:
 evas:
 gender:	Male
