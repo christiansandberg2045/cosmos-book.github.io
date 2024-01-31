@@ -1,16 +1,18 @@
 ---
 category:	cosmonaut
-name:	FEDYAYEV, Andrei Valereivich
+name:	FEDYAEV, Andrey Valerievich
 type:	military
-dob:	1981-02-26
+dob:	1975-02-19
 birthplace:
-  - name:	Serov, Sverdlovsk Oblast, Soviet Union
-    latitude:	59.6
-    longitude:	60.566667
+  - name:	Serov, Sverdlovsk Oblast, RSFSR, USSR
+    latitude:	59.600
+    longitude:	60.567
+qualifications:
+  - Engineering degree in air transport and Air Traffic Control
 country:
   - RUS
 references:
-  - http://www.spacefacts.de/bios/cosmonauts/english/fedyayev_andrei.htm
+  - https://en.wikipedia.org/wiki/Andrey_Fedyaev
 missions:
   - name: SpaceX Crew-6
     time_start: 2023-03-02T05:34:14Z
