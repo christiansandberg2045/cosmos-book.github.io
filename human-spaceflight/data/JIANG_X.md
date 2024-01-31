@@ -13,7 +13,7 @@ references:
   - https://en.wikipedia.org/wiki/Jiang_Xinlin
 missions:
   - name:	Shenzhou 17
-    time_start:	2023-10-26T03:14:02.491Z
+    time_start:	2023-10-26T03:14:02Z
 evas:
 gender:	Male
 ---
