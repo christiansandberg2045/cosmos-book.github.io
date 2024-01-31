@@ -5,7 +5,7 @@ type:	Civilian
 dob:	1983-05-03
 birthplace:
   - name:	Houston, Texas
-    latitude:	29.762778,
+    latitude:	29.762778
     longitude:	-95.383056
 qualifications:
   - MSc
