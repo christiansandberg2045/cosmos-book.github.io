@@ -950,6 +950,21 @@
 			"type": "Feature",
 			"geometry": {
 				"type": "Point",
+				"coordinates": [32.045278, 54.782778 ]
+			},
+			"properties": {
+				"title": "BOROSOV, Konstantin Sergeevich",
+				"date": "1984-08-14",
+				"birthplace": "Smolensk, Soviet Union",
+				"data": "https://github.com/cosmos-book/cosmos-book.github.io/tree/master/human-spaceflight/data/BOROSOV_KS.md",
+				"marker-size": "medium",
+				"marker-color": "#f04031",
+				"marker-symbol": "circle"
+			}
+		},{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
 				"coordinates": [-70.802544, 42.242489]
 			},
 			"properties": {
@@ -1535,6 +1550,21 @@
 			"type": "Feature",
 			"geometry": {
 				"type": "Point",
+				"coordinates": [0, 0]
+			},
+			"properties": {
+				"title": "CHUB, Nikolai Aleksandrovich",
+				"date": "1984-06-10",
+				"birthplace": "La Rochelle, France",
+				"data": "https://github.com/cosmos-book/cosmos-book.github.io/tree/master/human-spaceflight/data/CHUB_NA.md",
+				"marker-size": "medium",
+				"marker-color": "#f04031",
+				"marker-symbol": "circle"
+			}
+		},{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
 				"coordinates": [-93.627487, 42.025551]
 			},
 			"properties": {
@@ -1904,21 +1934,6 @@
 				"data": "https://github.com/cosmos-book/cosmos-book.github.io/tree/master/human-spaceflight/data/DELUCAS_LJ.md",
 				"marker-size": "medium",
 				"marker-color": "#00a2d3",
-				"marker-symbol": "circle"
-			}
-		},{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [116.222, 27.546]
-			},
-			"properties": {
-				"title": "DENG, Qingming",
-				"date": "1966-03-16",
-				"birthplace": "Yihuang, Jiangxi",
-				"data": "https://github.com/cosmos-book/cosmos-book.github.io/tree/master/human-spaceflight/data/DENG_Q.md",
-				"marker-size": "medium",
-				"marker-color": "#ffcb06",
 				"marker-symbol": "circle"
 			}
 		},{
@@ -2802,6 +2817,21 @@
 				"date": "1976-05-03",
 				"birthplace": "Künzelsau, Baden-Württemberg, Germany",
 				"data": "https://github.com/cosmos-book/cosmos-book.github.io/tree/master/human-spaceflight/data/GERST_A.md",
+				"marker-size": "medium",
+				"marker-color": "#67c18d",
+				"marker-symbol": "circle"
+			}
+		},{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [33.932222, 36.376111 ]
+			},
+			"properties": {
+				"title": "GEZERAVCI, Alper",
+				"date": "1979-12-02",
+				"birthplace": "Silifke, Mersin, Turkey",
+				"data": "https://github.com/cosmos-book/cosmos-book.github.io/tree/master/human-spaceflight/data/GEZERAVCI_A.md",
 				"marker-size": "medium",
 				"marker-color": "#67c18d",
 				"marker-symbol": "circle"
@@ -3839,6 +3869,21 @@
 				"data": "https://github.com/cosmos-book/cosmos-book.github.io/tree/master/human-spaceflight/data/JETT_BW.md",
 				"marker-size": "medium",
 				"marker-color": "#00a2d3",
+				"marker-symbol": "circle"
+			}
+		},{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [115.187, 36.811]
+			},
+			"properties": {
+				"title": "JIANG, Xinlin",
+				"date": "1988-02",
+				"birthplace": "Qiu County, Kaifeng, Henan Province, China",
+				"data": "https://github.com/cosmos-book/cosmos-book.github.io/tree/master/human-spaceflight/data/JIANG_X.md",
+				"marker-size": "medium",
+				"marker-color": "#ffcb06",
 				"marker-symbol": "circle"
 			}
 		},{
@@ -5435,6 +5480,21 @@
 			"type": "Feature",
 			"geometry": {
 				"type": "Point",
+				"coordinates": [8.75, 50.366667]
+			},
+			"properties": {
+				"title": "MOGHBELI, Jasmin",
+				"date": "1983-06-24",
+				"birthplace": "Bad Nauheim, West Germany",
+				"data": "https://github.com/cosmos-book/cosmos-book.github.io/tree/master/human-spaceflight/data/MOGHBELI_J.md",
+				"marker-size": "medium",
+				"marker-color": "#00a2d3",
+				"marker-symbol": "circle"
+			}
+		},{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
 				"coordinates": [67.67894, 33.93045]
 			},
 			"properties": {
@@ -5870,6 +5930,21 @@
 			"type": "Feature",
 			"geometry": {
 				"type": "Point",
+				"coordinates": [-95.383056, 29.762778,]
+			},
+			"properties": {
+				"title": "O'Hara, Loral Ashley",
+				"date": "1983-05-03",
+				"birthplace": "Houston, Texas",
+				"data": "https://github.com/cosmos-book/cosmos-book.github.io/tree/master/human-spaceflight/data/OHARA_LA.md",
+				"marker-size": "medium",
+				"marker-color": "#00a2d3",
+				"marker-symbol": "circle"
+			}
+		},{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
 				"coordinates": [-118.378998, 34.1698]
 			},
 			"properties": {
@@ -6224,21 +6299,6 @@
 				"data": "https://github.com/cosmos-book/cosmos-book.github.io/tree/master/human-spaceflight/data/PESQUET_TG.md",
 				"marker-size": "medium",
 				"marker-color": "#67c18d",
-				"marker-symbol": "circle"
-			}
-		},{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [63.62, 53.2]
-			},
-			"properties": {
-				"title": "PETELIN, Dmitri Aleksandrovich",
-				"date": "1983-07-10",
-				"birthplace": "Kostanay, Kazakhstan",
-				"data": "https://github.com/cosmos-book/cosmos-book.github.io/tree/master/human-spaceflight/data/PETELIN_DA.md",
-				"marker-size": "medium",
-				"marker-color": "#f04031",
 				"marker-symbol": "circle"
 			}
 		},{
@@ -6777,21 +6837,6 @@
 				"date": "1978-10-14",
 				"birthplace": "Farmington, Connecticut",
 				"data": "https://github.com/cosmos-book/cosmos-book.github.io/tree/master/human-spaceflight/data/RUBINS_K.md",
-				"marker-size": "medium",
-				"marker-color": "#00a2d3",
-				"marker-symbol": "circle"
-			}
-		},{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [-118.25, 34.05]
-			},
-			"properties": {
-				"title": "RUBIO, Francisco Carlos 'Frank'",
-				"date": "1975-12-11",
-				"birthplace": "Los Angeles, California, USA",
-				"data": "https://github.com/cosmos-book/cosmos-book.github.io/tree/master/human-spaceflight/data/RUBIO_F.md",
 				"marker-size": "medium",
 				"marker-color": "#00a2d3",
 				"marker-symbol": "circle"
@@ -7760,6 +7805,21 @@
 			"type": "Feature",
 			"geometry": {
 				"type": "Point",
+				"coordinates": [104.592, 35.608]
+			},
+			"properties": {
+				"title": "TANG, Shengjie",
+				"date": "1989-12",
+				"birthplace": "Dingxi, Gansu, China",
+				"data": "https://github.com/cosmos-book/cosmos-book.github.io/tree/master/human-spaceflight/data/TANG_S.md",
+				"marker-size": "medium",
+				"marker-color": "#ffcb06",
+				"marker-symbol": "circle"
+			}
+		},{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
 				"coordinates": [-75.3237, 39.8778]
 			},
 			"properties": {
@@ -8255,6 +8315,21 @@
 			"type": "Feature",
 			"geometry": {
 				"type": "Point",
+				"coordinates": [12.482778, 41.893333]
+			},
+			"properties": {
+				"title": "VILLADEI, Walter",
+				"date": "1974-04-29",
+				"birthplace": "Rome, Italy",
+				"data": "https://github.com/cosmos-book/cosmos-book.github.io/tree/master/human-spaceflight/data/VILLADEI_W.md",
+				"marker-size": "medium",
+				"marker-color": "#67c18d",
+				"marker-symbol": "circle"
+			}
+		},{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
 				"coordinates": [55.794559, 44.957489]
 			},
 			"properties": {
@@ -8519,6 +8594,21 @@
 				"data": "https://github.com/cosmos-book/cosmos-book.github.io/tree/master/human-spaceflight/data/WALZ_CE.md",
 				"marker-size": "medium",
 				"marker-color": "#00a2d3",
+				"marker-symbol": "circle"
+			}
+		},{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [13.433333, 59.333333 ]
+			},
+			"properties": {
+				"title": "WANDT, Hans Marcus",
+				"date": "1980-09-22",
+				"birthplace": "Hammarö, Sweden",
+				"data": "https://github.com/cosmos-book/cosmos-book.github.io/tree/master/human-spaceflight/data/WANDT_HM.md",
+				"marker-size": "medium",
+				"marker-color": "#67c18d",
 				"marker-symbol": "circle"
 			}
 		},{
@@ -8997,21 +9087,6 @@
 				"date": "1966-11-21",
 				"birthplace": "Longjiang County, Qiqihar",
 				"data": "https://github.com/cosmos-book/cosmos-book.github.io/tree/master/human-spaceflight/data/ZHAI_Z.md",
-				"marker-size": "medium",
-				"marker-color": "#ffcb06",
-				"marker-symbol": "circle"
-			}
-		},{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [0, 0]
-			},
-			"properties": {
-				"title": "ZHANG, Lu",
-				"date": "1976-11-01",
-				"birthplace": "Longjiang County, Qiqihar",
-				"data": "https://github.com/cosmos-book/cosmos-book.github.io/tree/master/human-spaceflight/data/ZHANG_L.md",
 				"marker-size": "medium",
 				"marker-color": "#ffcb06",
 				"marker-symbol": "circle"

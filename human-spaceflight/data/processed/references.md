@@ -255,6 +255,7 @@
 * **GERST, Alexander**: http://www.spacefacts.de/eva/international/english/gerst_alexander.htm
 * **GERST, Alexander**: https://www.esa.int/Our_Activities/Human_Spaceflight/International_Space_Station/Follow_the_launch_and_docking_of_ESA_astronaut_Alexander_Gerst
 * **GEVORKYAN, Vladimir Mkrtychovich**: http://www.spacefacts.de/bios/cosmonauts/english/gevorkyan_vladimir.htm
+* **GEZERAVCI, Alper**: http://www.spacefacts.de/bios/international/english/gezeravci_alper.htm
 * **GIBSON, Edward G.**: http://www.nasa.gov/pdf/740566main_current.pdf
 * **GIBSON, Robert L. 'Hoot'**: http://www.nasa.gov/pdf/740566main_current.pdf
 * **GIDZENKO, Yuri Pavlovich**: http://www.spacefacts.de/bios/cosmonauts/english/gidzenko_yuri.htm
@@ -351,6 +352,7 @@
 * **JEMISON, Mae C.**: http://www.nasa.gov/pdf/740566main_current.pdf
 * **JERNIGAN, Tamara E.**: http://www.nasa.gov/pdf/740566main_current.pdf
 * **JETT, Brent W.**: http://www.nasa.gov/pdf/740566main_current.pdf
+* **JIANG, Xinlin**: https://en.wikipedia.org/wiki/Jiang_Xinlin
 * **JING, Haipeng**: http://www.spacefacts.de/bios/international/english/jing_haipen.htm
 * **JOHNSON, Gregory C.**: http://www.nasa.gov/pdf/740566main_current.pdf
 * **JOHNSON, Gregory H.**: http://www.nasa.gov/pdf/740566main_current.pdf
@@ -771,6 +773,8 @@
 * **TAMAYO M&eacute;NDEZ, Arnaldo 'Guasso'**: http://www.spacefacts.de/bios/international/english/tamayo-mendez_arnaldo.htm
 * **TANG, Hongbo**: http://www.spacefacts.de/bios/international/english/tang_hongbo.htm
 * **TANG, Hongbo**: https://en.wikipedia.org/wiki/Shenzhou_12
+* **TANG, Shengjie**: http://www.spacefacts.de/bios/international/english/tang_shengjie.htm
+* **TANG, Shengjie**: https://en.wikipedia.org/wiki/Shenzhou_17
 * **TANI, Daniel M.**: http://www.nasa.gov/pdf/740566main_current.pdf
 * **TANNER, Joseph R.**: http://www.nasa.gov/pdf/740566main_current.pdf
 * **TARELKIN, Yevgeni Igorevich**: http://www.spacefacts.de/bios/cosmonauts/english/tarelkin_yevgeni.htm
@@ -818,6 +822,7 @@
 * **VIEHBÖCK, Franz Artur**: http://www.spacefacts.de/bios/international/english/viehboeck_franz.htm
 * **VIKTORENKO, Aleksandr Stepanovich**: http://www.spacefacts.de/bios/cosmonauts/english/viktorenko_aleksandr.htm
 * **VIKTORENKO, Aleksandr Stepanovich**: http://www.spacefacts.de/eva/cosmonauts/english/viktorenko_aleksandr.htm
+* **VILLADEI, Walter**: http://www.spacefacts.de/bios/tourists/english/villadei_walter.htm
 * **VINOGRADOV, Pavel Vladimirovich**: http://www.spacefacts.de/bios/cosmonauts/english/vinogradov_pavel.htm
 * **VINOGRADOV, Pavel Vladimirovich**: http://www.spacefacts.de/eva/cosmonauts/english/vinogradov_pavel.htm
 * **VIRTS, Terry**: http://www.nasa.gov/pdf/740566main_current.pdf
@@ -845,6 +850,7 @@
 * **WALPOT, Heike**: http://www.spacefacts.de/bios/international/english/walpot_heike.htm
 * **WALTER, Ulrich Hans**: http://www.spacefacts.de/bios/international/english/walter_ulrich.htm
 * **WALZ, Carl E.**: http://www.nasa.gov/pdf/740566main_current.pdf
+* **WANDT, Hans Marcus**: http://www.spacefacts.de/bios/candidates/reserve/english/wandt_marcus.htm
 * **WANG, Taylor G.**: http://www.nasa.gov/pdf/740566main_current.pdf
 * **WANG, Yaping**: http://www.spacefacts.de/bios/international/english/wang_yaping.htm
 * **WEBER, Mary E.**: http://www.nasa.gov/pdf/740566main_current.pdf
