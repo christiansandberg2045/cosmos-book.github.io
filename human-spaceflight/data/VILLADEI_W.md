@@ -5,7 +5,7 @@ type:	military
 dob:	1974-04-29
 birthplace:
   - name: Rome, Italy
-    latitude:	41.893333
+    latitude:	41.89333
     longitude:	12.482778
 qualifications:
   - MSc Aerospace Engineering
