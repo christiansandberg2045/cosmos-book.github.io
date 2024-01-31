@@ -17,7 +17,7 @@ missions:
     time_start:	2021-06-17T01:22:27Z
     time_end:   2021-09-19T05:34:09Z
   - name:	Shenzhou 17
-    time_start:	2023-10-26T03:14:02.491Z
+    time_start:	2023-10-26T03:14:02Z
     time_end:
 evas:
 gender:	Male
