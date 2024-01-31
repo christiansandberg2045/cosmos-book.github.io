@@ -1,6 +1,6 @@
 ---
 category:	cosmonaut
-name:	KONONENKO, Oleg Dmitriyevich 
+name:	KONONENKO, Oleg Dmitriyevich
 type:	military
 dob:	1964-06-21
 birthplace:
