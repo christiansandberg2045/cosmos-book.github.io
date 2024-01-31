@@ -30,7 +30,6 @@ missions:
     time_end:   2022-04-25T17:06:23Z
   - name: Axiom Mission 3
     time_start:   2024-01-18T21:49:11Z
-    time_end:
 evas:
   - time_start: 2000-10-16T14:15Z
     time_end:   2000-10-16T21:22Z
