@@ -20,6 +20,9 @@ missions:
   - name: Soyuz TMA-18
     time_start:   2010-04-02T04:04Z
     time_end:     2010-09-25T05:23Z
+  - name:	Soyuz MS-25
+    time_start:	2024-03-21T14:21Z
+    time_end:
 evas:
   - time_start: 2010-08-07T11:19Z
     time_end:   2010-08-07T19:22Z
