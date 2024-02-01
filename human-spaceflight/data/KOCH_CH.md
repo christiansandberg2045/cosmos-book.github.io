@@ -17,6 +17,9 @@ missions:
   - name: Soyuz MS-12
     time_start: 2019-03-14T19:14Z
     time_end:   2020-02-06T09:12Z
+  - name: Artemis II
+    time_start:
+    time_end:
 evas:
   - time_start: 2019-03-29T11:42Z
     time_end:   2019-03-29T18:27Z
