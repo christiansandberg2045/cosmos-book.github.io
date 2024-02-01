@@ -9,6 +9,9 @@ country:
 references:
   - http://www.spacefacts.de/bios/international/english/hansen_jeremy.htm
 missions:
+  - name: Artemis II
+    time_start:
+    time_end:
 evas:
 gender:	Male
 ---
