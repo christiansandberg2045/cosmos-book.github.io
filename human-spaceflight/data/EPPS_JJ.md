@@ -12,10 +12,13 @@ qualifications:
   - BSc in physics
   - PhD in aerospace engineering
 references:
-  - http://www.nasa.gov/pdf/740566main_current.pdf
+  - http://www.spacefacts.de/bios/astronauts/english/epps_jeanette.htm
 missions:
+ - name: SpaceX Crew-8
+   time_start:
+   time_end:
 evas:
-gender:	Male
+gender:	Female
 country:
   - USA
 ---
