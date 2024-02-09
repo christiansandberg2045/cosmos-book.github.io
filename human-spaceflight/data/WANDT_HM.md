@@ -16,6 +16,7 @@ references:
 missions:
   - name: Axiom Mission 3
     time_start:   2024-01-18T21:49:11Z
+    time_end: 2024-02-09T13:30Z
 evas:
 gender:	Male
 ---
