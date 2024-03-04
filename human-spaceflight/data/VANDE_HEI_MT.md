@@ -16,7 +16,7 @@ references:
 missions:
   - name: Soyuz MS-06
     time_start:   2017-09-12T21:17:02Z
-    time_end:     2018-02-27T23:08Z
+    time_end:     2018-02-28T02:31:06Z
   - name:	Soyuz MS-18
     time_start:	2021-04-09T07:42:41Z
   - name:	Soyuz MS-19
