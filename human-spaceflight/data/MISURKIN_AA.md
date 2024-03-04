@@ -18,7 +18,7 @@ missions:
     time_end:     2013-09-11T02:59Z
   - name: Soyuz MS-06
     time_start:   2017-09-12T21:17:02Z
-    time_end:     2018-02-27T23:08Z
+    time_end:     2018-02-28T02:31:06Z
   - name: Soyuz MS-20
     time_start:   2021-12-08T07:38:15Z
     time_end:     2021-12-20T03:13:18Z
