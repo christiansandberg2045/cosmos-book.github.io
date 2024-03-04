@@ -21,7 +21,7 @@ missions:
     time_start:   2011-02-24T21:53:24Z
     time_end:     2011-03-09T16:58:15Z
   - name: SpaceX Crew-8
-    time_start:
+    time_start: 2024-03-04T03:53Z
 evas:
   - time_start: 2009-06-05T07:52Z
     time_end:   2009-06-05T12:46Z
