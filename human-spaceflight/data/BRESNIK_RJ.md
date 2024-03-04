@@ -29,8 +29,8 @@ evas:
     time_end:	2017-10-05T19:00Z
   - time_start: 2017-10-10T12:56Z
     time_end:	2017-10-10T19:22Z
-  - time_start: 2017-10-20T12:46Z
-    time_end:	2017-10-20T19:36Z
+  - time_start: 2017-10-20T11:47Z
+    time_end:	2017-10-20T18:36Z
 gender:	Male
 country:
   - USA
