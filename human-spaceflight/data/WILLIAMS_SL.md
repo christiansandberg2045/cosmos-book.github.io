@@ -24,6 +24,9 @@ missions:
   - name: Soyuz TMA-05M
     time_start:   2012-07-15T02:40:03Z
     time_end:     2012-11-19T01:53:31Z
+  - name: Boe-CFT
+    time_start: 2024-06-05T14:52:15.2Z
+    time_end:
 evas:
   - time_start: 2006-12-16T19:25Z
     time_end:   2006-12-17T02:57Z
