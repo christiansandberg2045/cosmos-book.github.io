@@ -22,8 +22,11 @@ missions:
     time_start:	2021-04-09T07:42:41Z
     time_end:	2021-10-17T04:35:42Z
   - name:	Soyuz MS-25
-    time_start:	2024-03-21T14:21Z
+    time_start:	2024-03-23T12:36:10Z
     time_end:
+  - name:	Soyuz MS-24
+    time_start:
+    time_end: 2024-04-06T07:17:47Z
 evas:
   - time_start:	2021-06-02T05:53Z
   - time_end:	2021-06-02T13:12Z
