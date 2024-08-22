@@ -15,6 +15,9 @@ missions:
   - name: Shenzhou-13
     time_start: 2021-10-15T16:23:56Z
     time_end:  2022-04-16T01:56:37Z
+  - name: Shenzhou-18
+    time_start: 2024-04-25T12:59:00Z
+    time_end:
 evas:
   - time_start:
 gender:	Male
