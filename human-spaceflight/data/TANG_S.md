@@ -15,7 +15,7 @@ references:
 missions:
   - name:	Shenzhou 17
     time_start:	2023-10-26T03:14:02Z
-    time_end:
+    time_end: 2024-04-30T09:46:08Z
 evas:
 gender:	Male
 ---
