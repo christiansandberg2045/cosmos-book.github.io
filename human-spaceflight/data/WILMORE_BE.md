@@ -18,6 +18,9 @@ missions:
   - name: Soyuz TMA-14M
     time_start:   2014-09-25T20:25Z
     time_end:     2015-03-12T02:07Z
+  - name: Boe-CFT
+    time_start: 2024-06-05T14:52:15.2Z
+    time_end: 
 evas:
   - time_start: 2014-10-15T12:16Z
     time_end:   2014-10-15T18:50Z
