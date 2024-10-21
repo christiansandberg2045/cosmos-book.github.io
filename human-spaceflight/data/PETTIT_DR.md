@@ -25,6 +25,9 @@ missions:
   - name: Soyuz TMA-03M
     time_start:   2011-12-21T13:16Z
     time_end:     2012-07-01T08:14Z
+  - name: Soyuz MS-26
+    time_start: 2024-09-11T16:23:12Z
+    time_end:
 evas:
   - time_start: 2003-01-15T12:50Z
     time_end:   2003-01-15T19:41Z
