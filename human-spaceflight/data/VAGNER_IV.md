@@ -15,6 +15,9 @@ missions:
   - name: Soyuz MS-16
     time_start: 2020-04-09T08:05:06Z
     time_end:	2020-10-21T23:32Z
+  - name: Soyuz MS-26
+    time_start: 2024-09-11T16:23:12Z
+    time_end:
 evas:
 gender:	Male
 ---
