@@ -19,8 +19,8 @@ missions:
   - name: Soyuz MS-12
     time_start:	2019-03-14T19:14Z
     time_end: 2019-10-03T10:59Z
-  - name: Soyuz MS-24
-    time_start:
+  - name: Soyuz MS-26
+    time_start: 2024-09-11T16:23:12Z
     time_end:
 evas:
   - time_start: 2019-05-29T15:42Z
