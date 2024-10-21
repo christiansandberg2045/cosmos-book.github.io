@@ -22,7 +22,7 @@ missions:
     time_end:     2010-09-25T05:23Z
   - name:	Soyuz MS-25
     time_start:	2024-03-21T14:21Z
-    time_end:
+    time_end: 2024-09-23T11:59:03.8Z
 evas:
   - time_start: 2010-08-07T11:19Z
     time_end:   2010-08-07T19:22Z
