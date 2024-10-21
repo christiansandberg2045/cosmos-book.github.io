@@ -16,6 +16,9 @@ missions:
   - name: Soyuz MS-12
     time_start: 2019-03-14T19:14Z
     time_end:   2019-10-03T10:59Z
+  - name: SpaceX Crew-9
+    time_start: 2024-09-28T17:17:21Z
+    time_end:
 evas:
   - time_start: 2019-03-22T13:01Z
     time_end:   2019-03-22T19:40Z
