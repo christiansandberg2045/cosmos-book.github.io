@@ -1,6 +1,6 @@
 ---
 category:	commercial tourist
-name:	Gillis, Sarah
+name:	GILLIS, Sarah
 type:	civilian
 dob:	1994-01-01
 birthplace: 
