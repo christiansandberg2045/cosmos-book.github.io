@@ -1,6 +1,6 @@
 ---
 category:	commercial tourist
-name:	POTEET, Scott “Kidd”
+name:	POTEET, Scott
 type:	civilian
 dob:	1973-12-07
 birthplace:
